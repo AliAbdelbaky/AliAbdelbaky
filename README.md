@@ -4,11 +4,10 @@
 
 ## I'm a Student, Handballer and Web Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on ... Freelance
-- 🌱 I’m currently learning ... React.js
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
