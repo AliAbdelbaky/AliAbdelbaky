@@ -5,7 +5,7 @@
 ## I'm a Student, Frontend Developer
 
 - 👯 I’m looking to collaborate with other Web Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on ... Freelance
 - ⚡ Fun fact: I love to play guitar
 
