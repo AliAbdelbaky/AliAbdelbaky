@@ -2,9 +2,8 @@
 
 ---
 
-## I'm a Student, Handballer and Web Developer
+## I'm a Student, Frontend Developer
 
-- 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate with other Web Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on ... Freelance
