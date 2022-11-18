@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Student, Frontend Developer
+## I'm Frontend Developer
 
 - 👯 I’m looking to collaborate with other Web Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
