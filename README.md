@@ -1,4 +1,27 @@
-### Hi, I'm Ali Abdelbaky 👋
+
+```javascript
+
+const life: AAbdelbaqy = {
+  greet: "Hi 👋, I'm Ali Abdelbaqy, working as Frontend Developer at Grand community & Freelancer at upwork",
+  bio: React.js & Vue.js developer, Guitarist, and autodidact. from Egypt',
+  currentlyLearning: 'NextJS and Angular',
+  askMeAbout: 'Frontend Technologies',
+  reachMeAt: 'ali.abdelbaky2000@gmail.com',
+};
+``` 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdelbaky/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdelbaky_11)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ali.abdelbaky23/)
+[![Instagram](https://img.shields.io/badge/Instagram-e91e63?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ali_abdelbaky/)
+
+
+
+
+
+
+
+<!-- ### Hi, I'm Ali Abdelbaky 👋
 
 ---
 
@@ -41,15 +64,17 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. Create Dashboard [#1](https://github.com/AliAbdelbaky/bab-dashboard) in [AliAbdelbaky/bab-dashboard](https://github.com/AliAbdelbaky/bab-dashboard)
+<!-- 1. Create Dashboard [#1](https://github.com/AliAbdelbaky/bab-dashboard) in [AliAbdelbaky/bab-dashboard](https://github.com/AliAbdelbaky/bab-dashboard)
 2. Dark mode theme [#2](https://github.com/AliAbdelbaky/Dark-mode-theme) in [AliAbdelbaky/Dark-mode-theme](https://github.com/AliAbdelbaky/Dark-mode-theme)
 3. Todo list with vue  [#3](https://github.com/AliAbdelbaky/Todos-app) in [AliAbdelbaky/Todos-app](https://github.com/AliAbdelbaky/Todos-app)
-4. Sofra Restaurant [#4](https://github.com/AliAbdelbaky/Sofra-Restaurant) in [AliAbdelbaky/Sofra-Restaurant](https://github.com/AliAbdelbaky/Sofra-Restaurant)
+4. Sofra Restaurant [#4](https://github.com/AliAbdelbaky/Sofra-Restaurant) in [AliAbdelbaky/Sofra-Restaurant](https://github.com/AliAbdelbaky/Sofra-Restaurant) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
-[facebook]: https://www.facebook.com/ali.abdelbaky23/
+<!-- [facebook]: https://www.facebook.com/ali.abdelbaky23/
 [twitter]: http://twitter.com/abdelbaky_11
 [instagram]: https://www.instagram.com/ali_abdelbaky/
 [linkedin]: https://www.linkedin.com/in/ali-abdelbaky/
+ -->
+
