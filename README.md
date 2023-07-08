@@ -4,7 +4,7 @@
 const life: AAbdelbaqy = {
   greet: "Hi 👋, I'm Ali Abdelbaqy, working as Frontend Developer at Grand community & Freelancer at upwork",
   bio: React.js & Vue.js developer, Guitarist, and autodidact. from Egypt',
-  currentlyLearning: 'NextJS and Angular',
+  currentlyLearning: 'NextJS, NestJS[node js] and Angular',
   askMeAbout: 'Frontend Technologies',
   reachMeAt: 'ali.abdelbaky2000@gmail.com',
 };
