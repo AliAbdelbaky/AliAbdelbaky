@@ -2,7 +2,7 @@
 ```javascript
 
 const life: AAbdelbaqy = {
-  greet: "Hi 👋, I'm Ali Abdelbaqy, working as Frontend Developer at codebase & Freelancer at Upwork",
+  greet: "Hi 👋, I'm Ali Abdelbaqy, working as Senior Frontend Developer at Velents",
   bio: Software Developer, [react, vue, angular] developer, Guitarist, and autodidact. from Egypt,
   currentlyLearning: "NextJS, NestJS<nodeJS> and Angular",
   askMeAbout: "Frontend Technologies",
