@@ -74,7 +74,7 @@ const life: AAbdelbaqy = {
 
 <!-- [facebook]: https://www.facebook.com/ali.abdelbaky23/
 [twitter]: http://twitter.com/abdelbaky_11
-[instagram]: https://www.instagram.com/ali_abdelbaky/
-[linkedin]: https://www.linkedin.com/in/ali-abdelbaky/
+[instagram]: https://www.instagram.com/ali_abdelbaqy/
+[linkedin]: https://www.linkedin.com/in/ali-abdelbaqy/
  -->
 
