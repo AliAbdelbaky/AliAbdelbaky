@@ -11,7 +11,6 @@ const life: AAbdelbaqy = {
 ``` 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdelbaqy/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdelbaky_11)
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ali.abdelbaky23/)
 [![Instagram](https://img.shields.io/badge/Instagram-e91e63?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ali_abdelbaky/)
 
